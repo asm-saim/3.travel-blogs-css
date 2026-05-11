@@ -28,7 +28,7 @@ h2{
 
     min-height: 100vh; /*full screen height*/
 
-    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('/img/man-traveler-with-backpack-mountaineering-travel-lifestyle-concept.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('../img/man-traveler-with-backpack-mountaineering-travel-lifestyle-concept.jpg');
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,7 +37,7 @@ h2{
 }
 
 #box_one{
-        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('/img/ang-ka-nature-trail-doi-inthanon-national-park-chiang-mai-thailand.jpg');
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('../img/ang-ka-nature-trail-doi-inthanon-national-park-chiang-mai-thailand.jpg');
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,7 +45,7 @@ h2{
 }
 
 #box_two{
-        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/clouded-leopard-is-walking-towards-from-shadows-light-big-cat-male-from-darkness-zoo-czech-republic-neofelis-nebulosa-very-rare-creature.jpg);
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/clouded-leopard-is-walking-towards-from-shadows-light-big-cat-male-from-darkness-zoo-czech-republic-neofelis-nebulosa-very-rare-creature.jpg');
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -55,7 +55,7 @@ h2{
 
 
 #box_three{
-        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/mesmerizing-view-wooden-stairs-beautiful-forest-with-lush-nature.jpg);
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/mesmerizing-view-wooden-stairs-beautiful-forest-with-lush-nature.jpg');
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -64,7 +64,7 @@ h2{
 }
 
 #box_four{
-        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/man-standing-hill-while-enjoying-view-with-cloudy-sky.jpg);
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/man-standing-hill-while-enjoying-view-with-cloudy-sky.jpg');
 
     background-repeat: no-repeat;
     background-size: cover;
