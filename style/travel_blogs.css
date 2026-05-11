@@ -1,0 +1,99 @@
+h2{
+    text-align: center;
+    color: rgb(255, 136, 0);
+    font-size:45px;
+    font-family:cursive;
+    }
+
+.container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.travel{
+    border: 2px solid;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 10px rgba(255, 166, 0, 0.753);
+    width: 200px;
+    height: 300px;
+       
+}
+
+
+.bg_IMG{
+
+    min-height: 100vh; /*full screen height*/
+
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('/img/man-traveler-with-backpack-mountaineering-travel-lifestyle-concept.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#box_one{
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('/img/ang-ka-nature-trail-doi-inthanon-national-park-chiang-mai-thailand.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#box_two{
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/clouded-leopard-is-walking-towards-from-shadows-light-big-cat-male-from-darkness-zoo-czech-republic-neofelis-nebulosa-very-rare-creature.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+           
+}
+
+
+#box_three{
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/mesmerizing-view-wooden-stairs-beautiful-forest-with-lush-nature.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+           
+}
+
+#box_four{
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/man-standing-hill-while-enjoying-view-with-cloudy-sky.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+p{
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+h3{
+    color: rgb(231, 255, 11);
+}
+
+.foot{
+    text-align: center;
+    font-size:medium ;
+    font-weight: bold;
+    color: rgb(247, 70, 6);
+    margin-top: 40px;
+}
+
+button {
+  display: block;
+  width: 150px;
+  margin: 0 auto; 
+
+  /* display: block → makes button behave like a block element
+margin: 0 auto → automatically centers it horizontally */
+}
